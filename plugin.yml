@@ -1,0 +1,14 @@
+name: FShopUI
+main: Fred\ShopUI\Main
+api: [5.0.0]
+version: 1.0.0
+author: Fred
+
+commands:
+  shops:
+    description: "Open Shop Command"
+    permission: "openshop.cmd"
+    
+permissions:
+  openshop.cmd:
+    default: true
