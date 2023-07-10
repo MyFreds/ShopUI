@@ -1,0 +1,31 @@
+category:
+  - Tools
+  - Armor
+items:
+  Tools:
+    - name: "Diamond Sword"
+      item: "diamond_sword"
+      price: 100
+      sell: 50
+      icon-type: 0
+      icon: "textures/items/diamond_sword"
+    - name: "Iron Sword"
+      item: "iron_sword"
+      price: 100
+      sell: 50
+      icon-type: 0
+      icon: "textures/items/iron_sword"
+  Armor:
+    - name: "Diamond Helmet"
+      item: "diamond_helmet"
+      price: 200
+      sell: 100
+      icon-type: 0
+      icon: "textures/items/diamond_helmet"
+    - name: "Iron Chestplate"
+      item: "iron_chestplate"
+      price: 150
+      sell: 75
+      icon-type: 0
+      icon: "textures/items/iron_chestplate"
+// TODO
